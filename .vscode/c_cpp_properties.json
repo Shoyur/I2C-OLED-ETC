@@ -147,7 +147,6 @@
                 "C:/Users/MikeMore/.platformio/packages/framework-espidf/components/usb/include",
                 "C:/Users/MikeMore/.platformio/packages/framework-espidf/components/wifi_provisioning/include",
                 "C:/PROG/Portfolio/I2C-OLED-ETC/lib/i2cdev",
-                "C:/PROG/Portfolio/I2C-OLED-ETC/lib/lm75",
                 "C:/PROG/Portfolio/I2C-OLED-ETC/lib/pcf8563",
                 ""
             ],
@@ -293,7 +292,6 @@
                     "C:/Users/MikeMore/.platformio/packages/framework-espidf/components/usb/include",
                     "C:/Users/MikeMore/.platformio/packages/framework-espidf/components/wifi_provisioning/include",
                     "C:/PROG/Portfolio/I2C-OLED-ETC/lib/i2cdev",
-                    "C:/PROG/Portfolio/I2C-OLED-ETC/lib/lm75",
                     "C:/PROG/Portfolio/I2C-OLED-ETC/lib/pcf8563",
                     ""
                 ]
