@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "ssd1306.h": "c",
+        "i2cdev.h": "c"
+    }
+}
